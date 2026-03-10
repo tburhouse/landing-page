@@ -1,0 +1,16 @@
+main-body{
+    background-color: antiquewhite;
+    font-family: Arial;
+    font-size: medium;
+}
+
+.profile-image {
+    width: 250px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+h1{
+    font-size: 175px;
+    font-weight: 700;
+    align-items: center;
+}
